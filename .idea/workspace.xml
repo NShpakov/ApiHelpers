@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92db8054-db13-43c5-8e98-fe2c0669d761" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apiHelp/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="92db8054-db13-43c5-8e98-fe2c0669d761" name="Changes" comment="created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +170,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635103069953</updated>
     </task>
+    <task id="LOCAL-00001" summary="created">
+      <created>1637850938075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637850938075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,5 +190,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created" />
+    <option name="LAST_COMMIT_MESSAGE" value="created" />
   </component>
 </project>
