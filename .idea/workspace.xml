@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/apiHelp/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/apiHelp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +63,24 @@
       <recent name="ru.nshpakov.beforeActions" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GetUserListTest">
+  <component name="RunManager" selected="TestNG.GetCourseListTest (1)">
+    <configuration name="GetCourseListTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiHelpersHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nshpakov.store.inventory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nshpakov.store.inventory" />
+      <option name="MAIN_CLASS_NAME" value="ru.nshpakov.store.inventory.GetCourseListTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetCourseListTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="apiHelp" />
       <extension name="coverage">
@@ -133,31 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetUserListTest.getStore" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="apiHelp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.nshpakov.store.inventory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.nshpakov.store.inventory" />
-      <option name="MAIN_CLASS_NAME" value="ru.nshpakov.store.inventory.GetUserListTest" />
-      <option name="METHOD_NAME" value="getStore" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GetCourseListTest (1)" />
         <item itemvalue="TestNG.GetUserListTest" />
         <item itemvalue="TestNG.GetUserGradeTest" />
         <item itemvalue="TestNG.GetCourseListTest" />
         <item itemvalue="TestNG.GetUserListTest.getAllUsersFromMock" />
-        <item itemvalue="TestNG.GetUserListTest.getStore" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637850938075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created">
+      <created>1637851174197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637851174197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created">
+      <created>1637851253445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637851253445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
